@@ -1,0 +1,11 @@
+body {
+  background-color: gray;
+}
+
+.bg-green {
+  background-color: darkslategray;
+}
+
+.text-white {
+  color: white;
+}
